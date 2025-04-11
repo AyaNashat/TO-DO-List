@@ -1,0 +1,55 @@
+body
+{
+    background-image: url("photoes/freestocks-OfaDD5o8hpk-unsplash.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  
+  height: 100vh;
+}
+
+h1{
+  text-align: center;
+  margin: auto;
+  font-family: "lora" , serif;
+  font-weight: 500;
+}
+
+a{
+  text-decoration: none;
+  
+
+}
+li{
+  text-decoration: none;
+}
+
+.con-do{
+
+  box-shadow: 0 10px 10px; 
+    
+    text-align: center;
+    justify-content: center;
+    width: 40%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    position: relative;
+    top: 150px;
+
+}
+.con-do i{
+  font-size: 15px;
+
+  
+}
+.con-do button{
+  border: none;
+}
+
+.con-do input{
+  border: none;
+}

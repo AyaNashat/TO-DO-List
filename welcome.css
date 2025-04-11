@@ -1,0 +1,48 @@
+body{
+    background-image: url("photoes/welcome.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  
+  height: 100%;
+    
+}
+
+.home-welcome{
+    box-shadow: 0 10px 10px;
+    
+    text-align: center;
+    justify-content: center;
+    width: 40%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    position: relative;
+    top: 150px;
+
+}
+.home-welcome p{
+    font-size: 20px;
+    color: rgb(53, 12, 12);
+}
+
+.home-welcome a{
+    color: rgb(53, 12, 12);
+    
+}
+
+
+a{
+    text-decoration: none;
+    color:black ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.home-welcome span{
+    color: rgb(118, 51, 73);
+}

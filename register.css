@@ -1,0 +1,78 @@
+body{
+    background-image: url("photoes/welcome.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  
+  height: 100%;
+    
+}
+
+.home-register{
+    box-shadow: 0 10px 10px;
+    
+    text-align: center;
+    justify-content: center;
+    width: 40%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    position: relative;
+    top: 150px;
+
+}
+
+p{
+    border-style: groove;
+    border-radius: 5%;
+    width: 50%;
+    margin: auto;
+    margin-top: 2%;
+}
+.log{
+    color: aliceblue;
+    background-color: blanchedalmond;
+}
+a{
+    text-decoration: none;
+    color:black ;
+}
+input{
+    width: 50%;
+    height: 30px;
+   border-radius: 8px;
+    border: none; 
+    margin: 7px;
+    text-align: center;
+    background-color: #D6C0B3;
+   
+    
+}
+button{
+    width: 30%;
+    height: 35px;
+    border-radius: 12px;
+    border: none;
+    border-color: rgb(68, 58, 44);
+    background-color: #D6C0B3;
+    margin-top: 15px;
+
+}
+.content span{
+    display: flex;
+    justify-content: center;
+    
+   
+}
+p{
+    border-style: none; 
+    border-radius: none; 
+    width: 50%; 
+}
+button:hover{
+background-color:  #9d3920;
+
+}
